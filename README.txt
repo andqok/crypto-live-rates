@@ -1,1 +1,1 @@
-To run this app, `npm run serve` in terminal.
+To run this app, `npm install`, and then `npm run serve` in terminal.
