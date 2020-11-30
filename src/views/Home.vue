@@ -20,8 +20,10 @@
 <script>
 import CryptoItem from '@/components/CryptoItem.vue'
 import {Data as currencies} from './coins.json'
-const apiKey = '22f63deb9b34edc873c38702aab830bbc0f932c44eb639bad5b801dbbfb4469a'
-const wsUrl = `wss://streamer.cryptocompare.com/v2&api_key=${apiKey}`
+const apiKey = '376538fcaef6bceea6d1c69a79bfbd02c69b3bc0d32d0073c042685dd8e40a8b'
+/* Docs say v2?api_key is the same as v2&api_key,
+   but the latter works in Firefox & doesn't in Chrome */
+const wsUrl = `wss://streamer.cryptocompare.com/v2?api_key=${apiKey}`
 import ApexCharts from 'vue3-apexcharts'
 window.finCache = {}
 
@@ -89,9 +91,13 @@ export default {
       },
     }
   },
+  // unmounted() {
+  //   this.ws.close();
+  // },
   created() {
     this.ws = new WebSocket(wsUrl)
     this.ws.addEventListener('open', () => {
+      // console.log(evt)
       for (let {CoinInfo} of currencies) {
         if (!window.finCache[CoinInfo.Name]) {
           window.finCache[CoinInfo.Name] = []
@@ -99,7 +105,7 @@ export default {
         const str = JSON.stringify({
           "action": "SubAdd",
           "subs": [`0~Coinbase~${CoinInfo.Name}~USD`],
-        }, )
+        })
         this.ws.send(str)
       }
     })
