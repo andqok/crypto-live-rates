@@ -1,0 +1,1 @@
+To run this app, `npm run serve` in terminal.

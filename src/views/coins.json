@@ -1,0 +1,4694 @@
+{
+  "Data": [
+    {
+      "CoinInfo": {
+        "Id": "1182",
+        "Name": "BTC",
+        "FullName": "Bitcoin",
+        "Internal": "BTC",
+        "ImageUrl": "/media/19633/btc.png",
+        "Url": "/coins/btc/overview",
+        "Algorithm": "SHA-256",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "B+",
+            "TechnologyAdoptionRating": "A-",
+            "MarketPerformanceRating": "B"
+          }
+        },
+        "NetHashesPerSecond": 124305403067.55855,
+        "BlockNumber": 658938,
+        "BlockTime": 572.3355704697988,
+        "BlockReward": 6.25,
+        "AssetLaunchDate": "2009-01-03",
+        "MaxSupply": 20999999.9769,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BTC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 18555868,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 447673.48422713217,
+        "TotalTopTierVolume24H": 417429.2529775116,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "5031",
+        "Name": "XRP",
+        "FullName": "XRP",
+        "Internal": "XRP",
+        "ImageUrl": "/media/34477776/xrp.png",
+        "Url": "/coins/xrp/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "B-",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "C-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 59841025,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2013-01-01",
+        "MaxSupply": 99990853796,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "XRP",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 99990853796,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 7705032406.922987,
+        "TotalTopTierVolume24H": 7477096000.896244,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~XRP~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XRP~USD~2052~0.5409~1606502182~0.54049~2796.699561~1513.5738024132~17236820~727470451.907279~394685161.048918~1053686416.6787398~564634800.3421983~0.5374~0.5879~0.5042~0.4722~0.5892~0.4595~Coinbase~15066453.46442244~8160424.23653531~0.5385~0.5455~0.5353~1053657477.7698901~564613863.8218297~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "7605",
+        "Name": "ETH",
+        "FullName": "Ethereum",
+        "Internal": "ETH",
+        "ImageUrl": "/media/20646/eth_logo.png",
+        "Url": "/coins/eth/overview",
+        "Algorithm": "Ethash",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "A-",
+            "TechnologyAdoptionRating": "A-",
+            "MarketPerformanceRating": "B-"
+          }
+        },
+        "NetHashesPerSecond": 286396516864566,
+        "BlockNumber": 11342096,
+        "BlockTime": 13.33077748811532,
+        "BlockReward": 2.5327555648895834,
+        "AssetLaunchDate": "2015-07-30",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ETH",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 113601859.1865,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 6756934.641871808,
+        "TotalTopTierVolume24H": 6076856.490194555,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ETH~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ETH~USD~2050~507.84~1606502171~507.52~0.09855129~49.999996981500004~5V6UBUD5QQ1K~524083.4261688656~268180996.83817163~641259.78357437~328761128.446643~520.22~531.01~494.78~495.51~531.38~489.2~itBit~9947.066052290029~5133855.606023994~504.8~508.49~503.31~640604.17375287~328423369.3001323~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "3808",
+        "Name": "LTC",
+        "FullName": "Litecoin",
+        "Internal": "LTC",
+        "ImageUrl": "/media/35309662/ltc.png",
+        "Url": "/coins/ltc/overview",
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "B-",
+            "TechnologyAdoptionRating": "B",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 216626360079363,
+        "BlockNumber": 1954704,
+        "BlockTime": 153,
+        "BlockReward": 12.5,
+        "AssetLaunchDate": "2011-10-13",
+        "MaxSupply": 84000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "LTC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 66431807.9967574,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 14855776.661963759,
+        "TotalTopTierVolume24H": 14309174.53391085,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~LTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~LTC~USD~2052~68.04~1606502176~68.02~7.90900187~537.9703071974~130942262~1201288.2894196226~83188517.54798922~1389432.2988142099~96115722.67916933~71.03~73.53~65.44~66.82~73.6~64.55~Bitstamp~24366.257973379965~1640588.5181380254~68.03~68.6~67.76~1389432.2988142099~96115722.67916933~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "4614",
+        "Name": "XLM",
+        "FullName": "Stellar",
+        "Internal": "XLM",
+        "ImageUrl": "/media/35521289/xlm.png",
+        "Url": "/coins/xlm/overview",
+        "Algorithm": "N/A",
+        "ProofType": "SCP",
+        "Rating": {
+          "Weiss": {
+            "Rating": "B-",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "C-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2014-07-31",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "XLM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 50001803627.87172,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 5374741243.806145,
+        "TotalTopTierVolume24H": 4815881081.581814,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~XLM~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XLM~USD~2050~0.188~1606502128~0.1882~3200~602.1216~1606502128.933~301306977.67033386~51833967.88489489~286751246.53559554~49926303.51536789~0.1676~0.1952~0.1629~0.1537~0.1956~0.1509~Kraken~7662033.875334827~1326118.2375325146~0.1878~0.1909~0.1872~286751246.53559554~49926303.51536789~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "186277",
+        "Name": "ZRX",
+        "FullName": "0x",
+        "Internal": "ZRX",
+        "ImageUrl": "/media/1383799/zrx.png",
+        "Url": "/coins/zrx/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-08-15",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ZRX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1536110825.706224,
+        "TotalTopTierVolume24H": 1536082514.79369,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ZRX~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ZRX~USD~2049~0.395~1606502117~0.39557365~7.54306854~2.9822275779744~533549331~6231338.229986728~2510803.089898032~8401790.33756177~3374210.735794341~0.4084~0.4247~0.3842~0.3886~0.4248~0.3841~Bitfinex~56934.302861860015~22507.623708083644~0.3939~0.3964~0.3936~8401770.46928604~3374202.666293865~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "202330",
+        "Name": "BCH",
+        "FullName": "Bitcoin Cash",
+        "Internal": "BCH",
+        "ImageUrl": "/media/35650680/bch.png",
+        "Url": "/coins/bch/overview",
+        "Algorithm": "SHA-256",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C+",
+            "MarketPerformanceRating": "D"
+          }
+        },
+        "NetHashesPerSecond": 1780083237587664100,
+        "BlockNumber": 663440,
+        "BlockTime": 600,
+        "BlockReward": 6.2506578,
+        "AssetLaunchDate": "2017-08-01",
+        "MaxSupply": 20999999.9769,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BCH",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 18583989.64678976,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 2254272.8326937295,
+        "TotalTopTierVolume24H": 2083134.929080815,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BCH~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BCH~USD~1026~262.96~1606502174~262.95~2.2~578.71~341fs2hou0007ute~76332.11175631982~20285748.968016822~108865.00379297999~28987053.477048457~271.62~279.64~255.88~258.08~279.82~254.98~coinfield~1779.62774873~467916.5207672774~262.07~263.66~261.37~108358.15414274999~28851621.592867002~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "166503",
+        "Name": "EOS",
+        "FullName": "EOS",
+        "Internal": "EOS",
+        "ImageUrl": "/media/1383652/eos_1.png",
+        "Url": "/coins/eos/overview",
+        "Algorithm": "DPoS",
+        "ProofType": "DPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C+",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-26",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "EOS",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1024826936.8181,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 189394731.8480993,
+        "TotalTopTierVolume24H": 167381717.58004296,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~EOS~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~EOS~USD~2052~2.851~1606502117~2.847~4.4~12.54~2716320~3768577.1164013934~10888656.96258218~5348222.42594902~15417329.187259462~2.958~3.033~2.76~2.782~3.032~2.75~Coinbase~45789.95369252001~131020.09127683597~2.85~2.872~2.842~5348199.857565341~15417264.732009206~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "309621",
+        "Name": "LINK",
+        "FullName": "Chainlink",
+        "Internal": "LINK",
+        "ImageUrl": "/media/35309382/link.png",
+        "Url": "/coins/link/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-09-19",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "LINK",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 35830917.30043414,
+        "TotalTopTierVolume24H": 35805344.06043434,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~LINK~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~LINK~USD~2052~12.31~1606502100~12.32~22.08101448~272.285847376066~1606502100.5125~4505708.2910992~56004689.98896813~4932053.40918521~61309380.558421575~12.57~12.94~11.97~11.85~12.96~11.7~Kraken~196080.2009926499~2365106.7958393805~12.17~12.36~12.17~4932053.40918521~61309380.558421575~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "935926",
+        "Name": "YFI",
+        "FullName": "yearn.finance",
+        "Internal": "YFI",
+        "ImageUrl": "/media/37072233/yfi.png",
+        "Url": "/coins/yfi/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-07-17",
+        "MaxSupply": 30000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "YFI",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 30000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 15136.997138268353,
+        "TotalTopTierVolume24H": 15129.997198258761,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~YFI~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~YFI~USD~2050~23656.54~1606502167~23700~0.001177~27.83995764~3034071~2482.3804880002567~59092045.7294161~3125.43177952~73263929.69440195~23359.35~25580.74~22255.17~20002.44~25595.39~19803.08~Coinbase~54.886022030000156~1301507.669899612~23496.17~23935.82~23319.23~3125.43177952~73263929.69440195~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "321992",
+        "Name": "ADA",
+        "FullName": "Cardano",
+        "Internal": "ADA",
+        "ImageUrl": "/media/12318177/ada.png",
+        "Url": "/coins/ada/overview",
+        "Algorithm": "Ouroboros",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C+",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 5005665,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-10-05",
+        "MaxSupply": 45000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ADA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 31714575721.3104,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 2056483067.6612275,
+        "TotalTopTierVolume24H": 2034270872.9385726,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ADA~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ADA~USD~2052~0.1357~1606502170~0.1356~10884~1474.89084~16065021700001~30017330.79352997~4145617.6765914066~44108652.918752976~6078723.0023345705~0.1413~0.1458~0.1314~0.1296~0.1486~0.127~BitTrex~500712.6199476099~68063.83398000084~0.1355~0.1368~0.1354~44108652.918752976~6078723.0023345705~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "935731",
+        "Name": "DOT",
+        "FullName": "Polkadot",
+        "Internal": "DOT",
+        "ImageUrl": "/media/37072130/dot.png",
+        "Url": "/coins/dot/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 2654049,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-08-18",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "DOT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1016186944.5804175,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 56979010.69514395,
+        "TotalTopTierVolume24H": 56979010.69514395,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~DOT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~DOT~USD~2052~4.673~1606502082~4.709~20~95.086~2798~298719.90777935064~1437881.0684296296~620532.68109891~2958945.3144951863~4.808~5.073~4.516~4.544~5.071~4.513~OKCoin~6283.69338915~29358.64065000645~4.657~4.677~4.655~620532.68109891~2958945.3144951863~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "926591",
+        "Name": "BSV",
+        "FullName": "Bitcoin SV",
+        "Internal": "BSV",
+        "ImageUrl": "/media/35309257/bsv1.png",
+        "Url": "/coins/bsv/overview",
+        "Algorithm": "SHA-256",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C+",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 1195100585872428300,
+        "BlockNumber": 663155,
+        "BlockTime": 575.4,
+        "BlockReward": 6.25128934,
+        "AssetLaunchDate": "2018-11-15",
+        "MaxSupply": 20999999.9769,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BSV",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 18582207.89442325,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1645088.2479862487,
+        "TotalTopTierVolume24H": 1633617.732989552,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BSV~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BSV~USD~1026~161.38~1606502110~161.45~3.35288077~541.0543698549~533475859~7410.319245630004~1207317.8483082189~13303.90282551~2146381.2390138037~166.8~170.08~156.16~157.4~170.45~154.02~Bitfinex~119.74480379999999~19313.58736425151~160.68~161.72~160.48~13303.90282551~2146381.2390138037~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "310829",
+        "Name": "TRX",
+        "FullName": "TRON",
+        "Internal": "TRX",
+        "ImageUrl": "/media/34477805/trx.jpg",
+        "Url": "/coins/trx/overview",
+        "Algorithm": "N/A",
+        "ProofType": "DPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 25391208,
+        "BlockTime": 0,
+        "BlockReward": 16,
+        "AssetLaunchDate": "2017-09-26",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "TRX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 66682072191,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 9034184498.731203,
+        "TotalTopTierVolume24H": 8606203627.293524,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~TRX~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~TRX~USD~2049~0.02881~1606502110~0.02877~3855.7454~111.450320787~em1fs2hmu000ggm0~22923109.641854882~668872.924258478~38956483.08354933~1138535.6950973624~0.02938~0.03014~0.02819~0.02802~0.03262~0.02766~coinfield~254234.57345087~7292.846806709816~0.02858~0.02882~0.02855~38733236.42340553~1130060.633467006~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "171986",
+        "Name": "USDT",
+        "FullName": "Tether",
+        "Internal": "USDT",
+        "ImageUrl": "/media/1383672/usdt.png",
+        "Url": "/coins/usdt/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2014-10-06",
+        "MaxSupply": 19121766106.51,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "USDT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 18963656183.58545,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 214272127.46256983,
+        "TotalTopTierVolume24H": 193055666.67608798,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~USDT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~USDT~USD~2052~1.001~1606502175~1~11.925542~11.9517781924~533567747~83865313.48810497~83985425.73407653~104524601.65267073~104694553.65841725~1.002~1.003~1.001~1.003~1.003~1~Bitfinex~1650221.4190951455~1652103.057544677~1.002~1.002~1.001~104519016.96307024~104688921.27982914~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "5324",
+        "Name": "ETC",
+        "FullName": "Ethereum Classic",
+        "Internal": "ETC",
+        "ImageUrl": "/media/33752295/etc_new.png",
+        "Url": "/coins/etc/overview",
+        "Algorithm": "Ethash",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 4059184680839,
+        "BlockNumber": 11692908,
+        "BlockTime": 12.4172,
+        "BlockReward": 3.104,
+        "AssetLaunchDate": "23/07/2016",
+        "MaxSupply": 210700000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ETC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 123435050.98677228,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 36566889.24982804,
+        "TotalTopTierVolume24H": 30230974.59920806,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ETC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ETC~USD~2052~6.233~1606502129~6.178283~110.7~691.875~6141908~477849.2026705383~2937921.558041912~655311.31824645~4006135.779095323~6.171~6.453~5.979~5.78~6.451~5.704~Coinbase~26401.175136529975~165162.90958503605~6.219~6.283~6.197~655311.31824645~4006135.779095323~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "204788",
+        "Name": "BNB",
+        "FullName": "Binance Coin",
+        "Internal": "BNB",
+        "ImageUrl": "/media/1383947/bnb.png",
+        "Url": "/coins/bnb/overview",
+        "Algorithm": "BEP2 Token",
+        "ProofType": "PoSA",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "D+",
+            "MarketPerformanceRating": "B+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-27",
+        "MaxSupply": 174153539.9,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BNB",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 174153539.9,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 4268142.324498668,
+        "TotalTopTierVolume24H": 4228024.437456965,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BNB~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BNB~USD~2052~28.13~1606502161~28.1465~3.4685336~97.517822164~548908875~33894.944555430164~949682.6191436679~42049.21206173~1174583.568511432~28.21~28.72~27.26~27.18~28.72~26.46~Coinsbit~694.3095754400005~19464.145587691735~27.85~28.17~27.79~15246.99~424896.456151~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "928723",
+        "Name": "BTT",
+        "FullName": "BitTorrent",
+        "Internal": "BTT",
+        "ImageUrl": "/media/35309593/btt.jpg",
+        "Url": "/coins/btt/overview",
+        "Algorithm": "TRC10",
+        "ProofType": "DPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-01-28",
+        "MaxSupply": 990000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "BTT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 989988668456.5421,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 384796754585.19165,
+        "TotalTopTierVolume24H": 384796209668.19165,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~BTT~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BTT~BTC~2052~2e-8~1606502175~2e-8~10539.87~0.000190771647~100092556600~590662418.6360142~10.627989958047337~777123820.9767857~13.982994634507552~2e-8~2e-8~2e-8~2e-8~2e-8~2e-8~HuobiPro~12003589.684600007~0.21675469366033007~2e-8~2e-8~2e-8~777123820.9767857~13.982994634507552~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "187440",
+        "Name": "OMG",
+        "FullName": "OMG Network",
+        "Internal": "OMG",
+        "ImageUrl": "/media/37071946/omg.png",
+        "Url": "/coins/omg/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "D",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-23",
+        "MaxSupply": 140245398.24513277,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "OMG",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 140245398.24513277,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 28688006.937387563,
+        "TotalTopTierVolume24H": 28659380.717217647,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~OMG~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~OMG~USD~2049~3.511~1606502169~3.5103~9.5890874~33.72577929454~533555368~2986804.116955064~10674085.905036915~3829732.05286414~13737196.66208839~3.706~3.847~3.342~3.451~3.849~3.336~Bitfinex~81303.57495756003~285321.45677692164~3.5~3.529~3.493~3829689.12659668~13737038.957161594~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936630",
+        "Name": "UNI",
+        "FullName": "Uniswap Protocol Token",
+        "Internal": "UNI",
+        "ImageUrl": "/media/36935118/uniswap.png",
+        "Url": "/coins/uni/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-09-17",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "UNI",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 38469824.142876945,
+        "TotalTopTierVolume24H": 30116357.222492583,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~UNI~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~UNI~USD~513~3.258~1606502167~3.2585~1.193461~3.8888926685~2306374~2757440.4082912044~9242138.460377257~3802663.2594603803~12678515.457153726~3.437~3.535~3.162~3.14~3.538~3.136~Coinbase~51071.577345009995~167145.93951761047~3.277~3.292~3.242~3802663.2594603803~12678515.457153726~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "24854",
+        "Name": "ZEC",
+        "FullName": "ZCash",
+        "Internal": "ZEC",
+        "ImageUrl": "/media/351360/zec.png",
+        "Url": "/coins/zec/overview",
+        "Algorithm": "Equihash",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C+",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 7014532396,
+        "BlockNumber": 1056986,
+        "BlockTime": 73.375,
+        "BlockReward": 2.5,
+        "AssetLaunchDate": "2016-10-28",
+        "MaxSupply": 21000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ZEC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 10566162.5,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1559592.0129383216,
+        "TotalTopTierVolume24H": 1458836.9094775855,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ZEC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ZEC~USD~2052~68.42~1606502134~68.202783~1.6~109.5296~533517162~14964.716940050004~1017460.2795558642~32289.40190945~2188838.0036591934~70.15~71.3~66.06~65.1~72.53~63.74~Bitfinex~1290.3826262900004~88532.16949708933~68.3~68.62~68.21~32281.69077432~2188311.0347634302~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "166390",
+        "Name": "XTZ",
+        "FullName": "Tezos",
+        "Internal": "XTZ",
+        "ImageUrl": "/media/35651213/tezos-logo.png",
+        "Url": "/coins/xtz/overview",
+        "Algorithm": "N/A",
+        "ProofType": "DPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C+",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "D"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 1233853,
+        "BlockTime": 60,
+        "BlockReward": 40,
+        "AssetLaunchDate": "2018-06-30",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "XTZ",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 857706504.278518,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 40622490.71299287,
+        "TotalTopTierVolume24H": 40401771.54298615,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~XTZ~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XTZ~USD~1026~2.229~1606502175~2.229~102~227.2662~6670751~3996977.735344026~8991838.488063684~5688853.322580479~12776773.56087632~2.248~2.339~2.157~2.171~2.34~2.14~Coinbase~65173.172046159976~144794.83199828872~2.211~2.236~2.205~5688853.322580479~12776773.56087632~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "3807",
+        "Name": "DASH",
+        "FullName": "Dash",
+        "Internal": "DASH",
+        "ImageUrl": "/media/37459376/dash.png",
+        "Url": "/coins/dash/overview",
+        "Algorithm": "X11",
+        "ProofType": "PoW/PoSe",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C+",
+            "TechnologyAdoptionRating": "B-",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 6579095096767660,
+        "BlockNumber": 1378782,
+        "BlockTime": 157,
+        "BlockReward": 1.4423624842221359,
+        "AssetLaunchDate": "2014-01-18",
+        "MaxSupply": 18900000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "DASH",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 9833739.35065482,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 997948.7375757004,
+        "TotalTopTierVolume24H": 949183.2369933288,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~DASH~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~DASH~USD~2052~90.81~1606502140~90.8~1~90.805~1575808~26475.940475358584~2429960.843028542~37794.96469048~3453336.629988509~91.95~95.66~87.09~87.03~95.86~85.86~Coinbase~1085.996018109998~98902.07242478272~90.8~91.36~90.76~37655.5306635~3440591.0883675828~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936306",
+        "Name": "SUSHI",
+        "FullName": "Sushi",
+        "Internal": "SUSHI",
+        "ImageUrl": "/media/37305388/sushi.png",
+        "Url": "/coins/sushi/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-08-30",
+        "MaxSupply": 156589062.72388422,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "SUSHI",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 156589062.72388422,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 54122136.83107553,
+        "TotalTopTierVolume24H": 54122136.83107553,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~SUSHI~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SUSHI~USD~513~1.429~1606502118~1.4293~0.5~0.71465~204459585~506530~699199.1144999989~770063.5~1040364.69055~1.427~1.509~1.308~1.228~1.509~1.187~ftx~2962.5~4188.4122~1.417~1.434~1.406~770063.5~1040364.69055~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "5038",
+        "Name": "XMR",
+        "FullName": "Monero",
+        "Internal": "XMR",
+        "ImageUrl": "/media/19969/xmr.png",
+        "Url": "/coins/xmr/overview",
+        "Algorithm": "RandomX",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "B-",
+            "TechnologyAdoptionRating": "C+",
+            "MarketPerformanceRating": "B+"
+          }
+        },
+        "NetHashesPerSecond": 1556844905.025,
+        "BlockNumber": 2239890,
+        "BlockTime": 126,
+        "BlockReward": 1.291480500457,
+        "AssetLaunchDate": "2014-04-18",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "XMR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 17769893.42570762,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 653467.138845639,
+        "TotalTopTierVolume24H": 639602.8255447132,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~XMR~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XMR~USD~2052~115.91~1606502174~115.670676~0.00000675~0.0007836075~533550431~11198.058071429978~1286756.401963217~13120.32677919~1511195.9146225061~120.2~122.16~111.5~112.69~122.19~110.93~Bitfinex~733.2865859099998~85212.03015398861~115.85~116.29~115.57~13120.32677919~1511195.9146225061~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "27368",
+        "Name": "NEO",
+        "FullName": "NEO",
+        "Internal": "NEO",
+        "ImageUrl": "/media/37459377/neo.png",
+        "Url": "/coins/neo/overview",
+        "Algorithm": "dBFT2.0",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 6535425,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-08-01",
+        "MaxSupply": 100000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "NEO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 100000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 4519900.746579357,
+        "TotalTopTierVolume24H": 4062527.214218323,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~NEO~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~NEO~USD~2050~16.88~1606502145~16.888~1.4~23.5729774~216902615~31071.972632979952~524763.5373646201~39407.03961763~665593.7289085494~17.2~17.72~16.26~16.26~17.72~16.02~Exmo~148.37079462999992~2497.9494033762708~16.79~16.9~16.78~39308.84146929~663927.110513343~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936218",
+        "Name": "YFII",
+        "FullName": "DFI.money",
+        "Internal": "YFII",
+        "ImageUrl": "/media/37305342/yfii.png",
+        "Url": "/coins/yfii/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-07-26",
+        "MaxSupply": 39999.77111816406,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "YFII",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 39999.77111816406,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 38082.77331982019,
+        "TotalTopTierVolume24H": 38082.77331982019,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~YFII~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~YFII~BTC~2052~0.1093~1606502156~0.1091~0.0683~0.007467922~3209612~2920.487695780593~311.3730679025998~3651.277995780591~384.6732684983~0.1031~0.1131~0.1024~0.09538~0.1132~0.09484~Binance~53.713300000000004~5.9126081879999965~0.1104~0.1114~0.1088~3651.277995780591~384.6732684983~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "236131",
+        "Name": "VET",
+        "FullName": "VeChain",
+        "Internal": "VET",
+        "ImageUrl": "/media/12318129/ven.png",
+        "Url": "/coins/vet/overview",
+        "Algorithm": "VeChainThor Authority",
+        "ProofType": "Proof of Authority",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "D+",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-07-19",
+        "MaxSupply": 86712634466,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "VET",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 85985041177,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 4759773037.256936,
+        "TotalTopTierVolume24H": 4509354667.256852,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~VET~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~VET~USD~516~0.0142~1606502148~0.01426~5833.828~83.534583132~533567738~61938210.98881371~899430.1406658826~89003718.85444422~1276877.8587453633~0.0146~0.0154~0.0137~0.0133~0.01539~0.01292~Bitfinex~1778395.828~25254.285083132003~0.0141~0.0143~0.014~89003718.85444422~1276877.8587453633~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "925809",
+        "Name": "USDC",
+        "FullName": "USD Coin",
+        "Internal": "USDC",
+        "ImageUrl": "/media/34835941/usdc.png",
+        "Url": "/coins/usdc/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-10-31",
+        "MaxSupply": 2907910959.386855,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "USDC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 2907910959.386855,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 59891941.47665651,
+        "TotalTopTierVolume24H": 59812242.7638568,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~USDC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~USDC~USD~2050~1~1606502149~1~835.03857~835.87360857~130942219~3365275.6719815093~3368780.415520259~4314383.36868825~4318086.339046823~0.9997~1.004~0.9997~1~1.008~0.9996~Bitstamp~99082.86034776001~99133.30885961273~1~1.001~1~4314383.36868825~4318086.339046823~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "808414",
+        "Name": "ONT",
+        "FullName": "Ontology",
+        "Internal": "ONT",
+        "ImageUrl": "/media/36798656/ont.png",
+        "Url": "/coins/ont/overview",
+        "Algorithm": "VBFT",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 10810691,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-02-26",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ONT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 110415001.9745477,
+        "TotalTopTierVolume24H": 108818430.54450871,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ONT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ONT~USD~2052~0.5351~1606502169~0.5361~24.368596~13.0396357196~548909038~670281.3906713085~364289.16164035216~835430.38267393~455107.9671557352~0.5575~0.5757~0.5198~0.5258~0.5757~0.5198~Coinsbit~12506.589651399992~6700.907099626818~0.535~0.5388~0.5324~18982.478338~10407.078022477199~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "199107",
+        "Name": "ATOM",
+        "FullName": "Cosmos",
+        "Internal": "ATOM",
+        "ImageUrl": "/media/35650432/atom.png",
+        "Url": "/coins/atom/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 4227668,
+        "BlockTime": 7.622466,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2016-09-03",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ATOM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 264176319.037017,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 10969517.756438825,
+        "TotalTopTierVolume24H": 10686261.79113141,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ATOM~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ATOM~USD~513~5.254~1606502167~5.25~6.2~32.5872~2328264~536667.4210147297~2821823.864691383~782498.69581106~4103188.6419079364~5.34~5.454~5.094~5.081~5.454~5.03~Coinbase~11530.837411760007~60494.42327338517~5.231~5.265~5.219~782498.69581106~4103188.6419079364~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "934837",
+        "Name": "JST",
+        "FullName": "JUST",
+        "Internal": "JST",
+        "ImageUrl": "/media/36935214/jst.png",
+        "Url": "/coins/jst/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-04-03",
+        "MaxSupply": 9900000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "JST",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 9900000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 2634089687.164632,
+        "TotalTopTierVolume24H": 2634089687.164632,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~JST~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~JST~BTC~2052~0.00000124~1606502179~0.00000124~2016.42~0.002506208418~1523586~41241400.4816403~51.347828050326235~56957375.221589655~70.75334629294328~0.00000126~0.00000127~0.00000123~0.00000122~0.00000128~0.00000121~HuobiPro~1677314.4478371881~2.0726618440991826~0.00000124~0.00000124~0.00000123~56957375.221589655~70.75334629294328~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "925144",
+        "Name": "OKB",
+        "FullName": "Okex",
+        "Internal": "OKB",
+        "ImageUrl": "/media/34478141/okb.png",
+        "Url": "/coins/okb/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-01-30",
+        "MaxSupply": 300000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "OKB",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 275512058.43,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 10398867.205992514,
+        "TotalTopTierVolume24H": 10398867.205992514,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~OKB~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~OKB~BTC~1026~0.0003034~1606502173~0.0003072~51.4826~0.01561982084~5651813~1193106.0767000027~368.2896499015392~1572002.9338~486.82575204897~0.0003146~0.0003166~0.000299~0.0003128~0.0003212~0.000299~OKEX~49020.026800000014~14.82562892124~0.000305~0.0003054~0.0003007~1572002.9338~486.82575204897~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "20131",
+        "Name": "WAVES",
+        "FullName": "Waves",
+        "Internal": "WAVES",
+        "ImageUrl": "/media/27010639/waves2.png",
+        "Url": "/coins/waves/overview",
+        "Algorithm": "Leased POS",
+        "ProofType": "LPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "D+",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 2347862,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2016-06-12",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "WAVES",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 103647178,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 8701632.120081708,
+        "TotalTopTierVolume24H": 8345142.095287382,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~WAVES~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~WAVES~USD~2052~6.444~1606502171~6.444~44.827887~288.8395243071~548909102~309445.7662197912~1987812.3519908309~344926.54859063996~2200169.9962541233~6.033~6.88~6.01~5.932~6.889~5.854~Coinsbit~6348.30724198~41012.058640400166~6.451~6.479~6.435~121707.73478774~782053.949131863~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936137",
+        "Name": "CRV",
+        "FullName": "Curve DAO Token",
+        "Internal": "CRV",
+        "ImageUrl": "/media/37072342/crv.png",
+        "Url": "/coins/crv/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-08-13",
+        "MaxSupply": 1376922366.0256393,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "CRV",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1376922366.0256393,
+        "MktCapPenalty": 99.99,
+        "TotalVolume24H": 88109235.64274508,
+        "TotalTopTierVolume24H": 88109235.64274508,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~CRV~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~CRV~USD~1026~0.61~1606501691~0.61~2145.67442623~1308.8614000003~1606501691.2055~429480.3961206004~253082.95522291743~779772.83854524~451128.701946679~0.584~0.621~0.547~0.528~0.621~0.519~Kraken~8463.484183659999~5176.70786721812~0.603~0.616~0.603~779772.83854524~451128.701946679~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "5285",
+        "Name": "XEM",
+        "FullName": "NEM",
+        "Internal": "XEM",
+        "ImageUrl": "/media/20490/xem.png",
+        "Url": "/coins/xem/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoI",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D",
+            "TechnologyAdoptionRating": "D",
+            "MarketPerformanceRating": "C-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2015-03-31",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "XEM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 8999999999,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 317728533.46169835,
+        "TotalTopTierVolume24H": 316737195.4966069,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~XEM~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XEM~BTC~2052~0.00000971~1606502172~0.00000971~22.15~0.0002150765~100047295556~80306247.47036564~764.9177390801183~101837943.73222566~963.3093177143903~0.00000927~0.0000099~0.00000912~0.00000909~0.00000992~0.00000895~HuobiPro~602035.4613414065~5.830667857732917~0.00000966~0.00000972~0.00000963~101385069.3483189~959.0995586208876~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "112392",
+        "Name": "QTUM",
+        "FullName": "QTUM",
+        "Internal": "QTUM",
+        "ImageUrl": "/media/1383382/qtum.png",
+        "Url": "/coins/qtum/overview",
+        "Algorithm": "POS 3.0",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 13991481.94527508,
+        "BlockNumber": 741395,
+        "BlockTime": 352,
+        "BlockReward": 4.00833814,
+        "AssetLaunchDate": "2016-12-19",
+        "MaxSupply": 107822402.25,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "QTUM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 102945580,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 25683459.58596704,
+        "TotalTopTierVolume24H": 19070845.937726997,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~QTUM~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~QTUM~USD~513~2.459~1606502151~2.47~4.193~10.35671~68740~82334.79590494014~206815.0452209932~116335.780747~289371.9282727704~2.509~2.628~2.396~2.349~2.622~2.312~binanceusa~9495.545045080004~23525.264609468486~2.467~2.497~2.458~116081.66401606999~288731.24322692625~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "929418",
+        "Name": "CRO",
+        "FullName": "Crypto.com Chain Token",
+        "Internal": "CRO",
+        "ImageUrl": "/media/34478435/mco.png",
+        "Url": "/coins/cro/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-11-14",
+        "MaxSupply": 100000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "CRO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 100000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 707915785.5899245,
+        "TotalTopTierVolume24H": 707450262.2899238,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~CRO~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~CRO~USD~2052~0.06286~1606502182~0.06286~1811.26~113.8558036~16065021820002~19996933.182457905~1269353.556730686~25624846.0046193~1625283.48394905~0.06372~0.06541~0.0618~0.06243~0.06541~0.061~BitTrex~694144.0421130506~43812.66263071031~0.06291~0.0638~0.0624~25624846.0046193~1625283.48394905~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "931777",
+        "Name": "SXP",
+        "FullName": "Swipe",
+        "Internal": "SXP",
+        "ImageUrl": "/media/35651362/sxp.png",
+        "Url": "/coins/sxp/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-08-16",
+        "MaxSupply": 289136211.7397367,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "SXP",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 289136211.7397367,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 45496239.67667972,
+        "TotalTopTierVolume24H": 45496239.67667972,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~SXP~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SXP~BTC~1028~0.00005644~1606502110~0.00005576~0.029~0.00000163357~1594325223514~5295983.242512917~302.53651257363884~7028799.80228714~401.65569850282117~0.00005561~0.00006044~0.00005453~0.00005767~0.00006045~0.00005412~Kucoin~94639.0326~5.358084084796002~0.00005646~0.00005689~0.00005627~7028799.80228714~401.65569850282117~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "930992",
+        "Name": "ALGO",
+        "FullName": "Algorand",
+        "Internal": "ALGO",
+        "ImageUrl": "/media/35650900/algo.png",
+        "Url": "/coins/algo/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 10517073,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-06-19",
+        "MaxSupply": 10000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ALGO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 3673014097.829344,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 137657382.93101117,
+        "TotalTopTierVolume24H": 137657382.93101117,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ALGO~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ALGO~USD~1026~0.2983~1606502180~0.2982~22~6.5604~5006475~20162560.651563954~6060043.165202657~27118947.4980705~8108447.82216454~0.3014~0.3182~0.2853~0.2852~0.3188~0.2808~Coinbase~596602.2493406399~178634.08957376116~0.2974~0.3015~0.2969~27118947.4980705~8108447.82216454~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "166548",
+        "Name": "MCO",
+        "FullName": "Crypto.com",
+        "Internal": "MCO",
+        "ImageUrl": "/media/34478435/mco.png",
+        "Url": "/coins/mco/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-05-18",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "MCO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 31587682.3632061,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 15765207.382500067,
+        "TotalTopTierVolume24H": 15765204.762500066,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~MCO~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~MCO~BTC~1026~0.00016~1606502175~0.0001016~118.1533~0.018904528~4089571~1153044.9613000017~175.85917475479994~1642958.8248~241.12787594890003~0.000139~0.00017~0.000136~0.000134~0.00017~0.000126~OKEX~39456.661000000015~6.353247747200004~0.000162~0.000164~0.000159~1642956.2048~241.1277627649~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936952",
+        "Name": "AAVE",
+        "FullName": "Aave",
+        "Internal": "AAVE",
+        "ImageUrl": "/media/37071994/aave.png",
+        "Url": "/coins/aave/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-10-02",
+        "MaxSupply": 16000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "AAVE",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 16000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 607129.8761055542,
+        "TotalTopTierVolume24H": 607129.8761055542,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~AAVE~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~AAVE~BTC~2052~0.003622~1606502112~0.003616~0.12~0.00043463999999999997~874360~96344.97918224396~354.7727357034043~117281.16917956613~430.38623224350425~0.003749~0.003994~0.003415~0.003435~0.004~0.003382~Binance~1212.7678444399978~4.3959906418681705~0.003591~0.003645~0.003582~117281.16917956613~430.38623224350425~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "716725",
+        "Name": "ZIL",
+        "FullName": "Zilliqa",
+        "Internal": "ZIL",
+        "ImageUrl": "/media/27010464/zil.png",
+        "Url": "/coins/zil/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "C"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-11-06",
+        "MaxSupply": 21000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ZIL",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 13977320399.716412,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1341963168.3233242,
+        "TotalTopTierVolume24H": 1337370561.6297355,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ZIL~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ZIL~USD~2052~0.0238~1606501534~0.0247~8518.6~202.74268~241336~20787569.709600203~524168.9496677833~25396678.4731584~641222.9918410768~0.026~0.02697~0.0231~0.0241~0.027~0.0231~binanceusa~236097.40000000005~5631.030000000001~0.0237~0.024~0.0237~25396678.4731584~641222.9918410768~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "771595",
+        "Name": "HT",
+        "FullName": "Huobi Token",
+        "Internal": "HT",
+        "ImageUrl": "/media/27010813/ht.png",
+        "Url": "/coins/ht/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-01-22",
+        "MaxSupply": 500000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "HT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 276889282.2548685,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 7481249.512116177,
+        "TotalTopTierVolume24H": 7430101.112117767,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~HT~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~HT~BTC~2052~0.0002372~1606502167~0.0002372~1.18~0.0002798488~103084582897156000000000000~1287532.6107768374~305.18296190124425~1541634.959921116~365.39381074674503~0.000237~0.0002405~0.0002321~0.00024~0.0002416~0.0002319~huobijapan~70557.69702129197~16.70059855605099~0.0002362~0.0002376~0.0002357~1541634.959921116~365.39381074674503~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932932",
+        "Name": "KSM",
+        "FullName": "Kusama",
+        "Internal": "KSM",
+        "ImageUrl": "/media/36639823/ksm.png",
+        "Url": "/coins/ksm/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-08-23",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "KSM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 9651217.451262059,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 583769.1534741961,
+        "TotalTopTierVolume24H": 583769.1534741961,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~KSM~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~KSM~USD~1026~44.84~1606502147~44.76~1~44.84~1606502147.9194~3568.2067008100043~166651.30567679045~5238.0253807399995~247043.4764079914~49.13~49.42~43.08~49.49~49.77~43.08~Kraken~16.902152100000002~756.1808496796301~44.17~44.86~44.17~5238.0253807399995~247043.4764079914~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "213663",
+        "Name": "FIL",
+        "FullName": "FileCoin",
+        "Internal": "FIL",
+        "ImageUrl": "/media/37459215/fil.png",
+        "Url": "/coins/fil/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 273166,
+        "BlockTime": 30,
+        "BlockReward": 14.1712827602953,
+        "AssetLaunchDate": "2017-07-19",
+        "MaxSupply": 2000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "FIL",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 42325801,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 846337.7934183084,
+        "TotalTopTierVolume24H": 846337.7934183084,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~FIL~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~FIL~USD~513~29.79~1606502111~29.78~0.00335841~0.10018472871~533472788~23592.632261750005~700866.8283244729~27591.006723~819172.4024008431~30.02~30.38~29.31~29.29~30.41~29.13~Bitfinex~564.8256061300001~16815.86231088396~29.79~29.79~29.69~27591.006723~819172.4024008431~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "127356",
+        "Name": "MIOTA",
+        "FullName": "IOTA",
+        "Internal": "MIOTA",
+        "ImageUrl": "/media/1383540/iota_logo.png",
+        "Url": "/coins/miota/overview",
+        "Algorithm": "N/A",
+        "ProofType": "Tangle",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C",
+            "MarketPerformanceRating": "C-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2016-07-17",
+        "MaxSupply": 2779530283.277761,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "MIOTA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 2779530283.277761,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 78934120.14981146,
+        "TotalTopTierVolume24H": 78934120.14981146,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~MIOTA~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~MIOTA~USD~513~0.3008~1606502144~0.3349~14.69674469~4.4210747376458~533555367~2376349.6146651087~729690.0131692336~3797407.70834583~1150287.54596887~0.3046~0.3244~0.2909~0.2846~0.3244~0.2788~Bitfinex~33072.82536872~9929.199468193323~0.2974~0.3019~0.2974~3797407.70834583~1150287.54596887~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "107672",
+        "Name": "BAT",
+        "FullName": "Basic Attention Token",
+        "Internal": "BAT",
+        "ImageUrl": "/media/1383370/bat.png",
+        "Url": "/coins/bat/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-05-31",
+        "MaxSupply": 1500000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BAT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1500000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 102233625.93319663,
+        "TotalTopTierVolume24H": 101843702.68938294,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BAT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BAT~USD~1026~0.2193~1606502115~0.2194~900~197.37~1606502115.9777~1531960.4217663812~340405.6668131785~1558204.2892655602~341909.3118813451~0.2241~0.2304~0.2137~0.2144~0.2292~0.2107~Kraken~9840.96680618~2160.0914158289297~0.2185~0.2198~0.2185~1557685.0156741901~341794.0580037484~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "24294",
+        "Name": "STRAX",
+        "FullName": "Stratis",
+        "Internal": "STRAX",
+        "ImageUrl": "/media/351303/stratis-logo.png",
+        "Url": "/coins/strax/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "E+",
+            "TechnologyAdoptionRating": "E+",
+            "MarketPerformanceRating": "C-"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 33776,
+        "BlockTime": 0,
+        "BlockReward": 18,
+        "AssetLaunchDate": "2016-08-09",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "STRAX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 125595800,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 31232126.65293211,
+        "TotalTopTierVolume24H": 31232126.65293211,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~STRAX~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~STRAX~BTC~2050~0.00004071~1606502168~0.00003883~205.3~0.00408547~1017413048~4144086.516597122~164.7714606851492~4530578.463703849~177.80568969415637~0.00003378~0.00004211~0.00003348~0.00003343~0.00004283~0.00003282~HitBTC~76385.60000000008~2.9880093780000028~0.00004073~0.00004095~0.00004022~4530578.463703849~177.80568969415637~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "925815",
+        "Name": "ONGAS",
+        "FullName": "Ontology Gas",
+        "Internal": "ONGAS",
+        "ImageUrl": "/media/36798657/ong-logo.png",
+        "Url": "/coins/ongas/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "0000-00-00",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ONGAS",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 107324040.66182819,
+        "TotalTopTierVolume24H": 90901058.66182566,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ONGAS~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ONGAS~BTC~2052~0.00001219~1606502169~0.00001219~413.32~0.0050879692~16065021690001~25676283.00245827~329.1877974368643~36015887.47907176~471.43813209061375~0.00001373~0.00001503~0.00001199~0.00001341~0.00001532~0.00001192~Bibox~417629.66409573995~5.108613450600652~0.00001224~0.00001235~0.00001218~19592905.47907176~256.72076792061375~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "933019",
+        "Name": "TRB",
+        "FullName": "Tellor",
+        "Internal": "TRB",
+        "ImageUrl": "/media/36639873/trb.png",
+        "Url": "/coins/trb/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 1000000000,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 10.756666666666666,
+        "AssetLaunchDate": "2019-09-10",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "TRB",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1653791.8485238135,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 845390.6939349406,
+        "TotalTopTierVolume24H": 845390.6939349406,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~TRB~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~TRB~BTC~513~0.001416~1606502177~0.001415~15.8248~0.022392092~433986~132019.33458564072~185.1581297447982~149304.6716446007~209.7129590534~0.001423~0.001466~0.001327~0.001377~0.001489~0.001321~OKEX~344.8816999999997~0.4878128473~0.001418~0.001418~0.001411~149304.6716446007~209.7129590534~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "930621",
+        "Name": "RSR",
+        "FullName": "Reserve Rights",
+        "Internal": "RSR",
+        "ImageUrl": "/media/35650703/rsr.png",
+        "Url": "/coins/rsr/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-05-17",
+        "MaxSupply": 342652046.184918,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "RSR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 342652046.184918,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1040994747.1078753,
+        "TotalTopTierVolume24H": 1040994747.1078753,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~RSR~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~RSR~BTC~2052~0.00000109~1606502171~0.00000109~2281.8378~0.002464384824~342860~167305897.3824516~187.52164063236435~218917032.2793867~243.795356051705~0.00000113~0.00000119~0.00000105~0.00000106~0.0000012~0.00000104~OKEX~1727765.5345999997~1.8793433036060014~0.00000109~0.00000109~0.00000108~218917032.2793867~243.795356051705~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932096",
+        "Name": "BAND",
+        "FullName": "Band Protocol",
+        "Internal": "BAND",
+        "ImageUrl": "/media/35651530/band.png",
+        "Url": "/coins/band/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-09-09",
+        "MaxSupply": 100000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BAND",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 100000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 3282501.8042379385,
+        "TotalTopTierVolume24H": 3282501.8042379385,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BAND~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BAND~USD~2049~5.637~1606502146~5.6521~29.55~166.517205~1802680~303254.1570855984~1770868.400737589~398783.46001188~2331785.456263049~5.992~6.229~5.509~5.649~6.226~5.509~Coinbase~7844.937189080005~44413.29717882188~5.66~5.69~5.627~398783.46001188~2331785.456263049~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932637",
+        "Name": "DAI",
+        "FullName": "Multi Collateral Dai",
+        "Internal": "DAI",
+        "ImageUrl": "/media/36569383/mcd.png",
+        "Url": "/coins/dai/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-11-18",
+        "MaxSupply": 648491792.4381919,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "DAI",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 648491792.4381919,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 18283727.553383578,
+        "TotalTopTierVolume24H": 18283727.553383578,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~DAI~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~DAI~USD~2049~1.004~1606502168~1.0026~0.89881~0.90218413274~1394429~8727015.765882755~8729504.916054705~10361534.82458148~10374969.248279471~1.004~1.007~0.9938~1.003~1.02~0.9646~Coinbase~247138.98840640023~246882.79560924778~0.998~1.004~0.9965~10361534.82458148~10374969.248279471~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "816635",
+        "Name": "SNX",
+        "FullName": "Synthetix",
+        "Internal": "SNX",
+        "ImageUrl": "/media/35309690/hav.png",
+        "Url": "/coins/snx/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-03-11",
+        "MaxSupply": 210202519.26424447,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "SNX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 210202519.26424447,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 4278496.746185156,
+        "TotalTopTierVolume24H": 4269493.351592473,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~SNX~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SNX~USD~513~4.017~1606501901~4.03~0.25333624~1.024289085568~533195885~65500.58987291999~277106.7401693757~69269.68405341~293117.6702565268~4.315~4.597~3.924~3.928~4.597~3.844~Bitfinex~5089.8846238900005~20442.37618220929~3.965~4.024~3.965~69269.68405341~293117.6702565268~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "4432",
+        "Name": "DOGE",
+        "FullName": "Dogecoin",
+        "Internal": "DOGE",
+        "ImageUrl": "/media/19684/doge.png",
+        "Url": "/coins/doge/overview",
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C",
+            "TechnologyAdoptionRating": "C+",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 160315467905453,
+        "BlockNumber": 3499341,
+        "BlockTime": 62,
+        "BlockReward": 10000,
+        "AssetLaunchDate": "2013-12-06",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "DOGE",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 127279273388.47572,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 5981186592.799963,
+        "TotalTopTierVolume24H": 4982495560.426191,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~DOGE~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~DOGE~BTC~2052~1.9e-7~1606502180~1.9e-7~1249.72~0.00023369764~100035119836~634653842.2319996~119.7652854444123~974459831.2094129~183.79746710790158~1.9e-7~2e-7~1.8e-7~1.9e-7~2e-7~1.8e-7~HuobiPro~7739647.871940401~1.4310699028196425~1.9e-7~1.9e-7~1.8e-7~970722623.6579525~183.11487104217366~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "324068",
+        "Name": "ICX",
+        "FullName": "ICON Project",
+        "Internal": "ICX",
+        "ImageUrl": "/media/36640221/iconlogo.png",
+        "Url": "/coins/icx/overview",
+        "Algorithm": "Loopchain",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D",
+            "TechnologyAdoptionRating": "D",
+            "MarketPerformanceRating": "D"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-10-24",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ICX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 866368278.0800924,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 38289331.153279655,
+        "TotalTopTierVolume24H": 38261099.133279555,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ICX~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ICX~BTC~2052~0.00002314~1606502176~0.00002312~12.6033~0.000291388296~100035886442~6615845.5071573425~155.11029530093415~9021047.063277388~211.80098900300388~0.00002357~0.00002446~0.00002287~0.00002337~0.00002453~0.00002281~HuobiPro~271087.6628584201~6.288588602629092~0.00002321~0.00002328~0.00002306~9021047.063277388~211.80098900300388~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "310497",
+        "Name": "KNC",
+        "FullName": "Kyber Network",
+        "Internal": "KNC",
+        "ImageUrl": "/media/12318084/knc.png",
+        "Url": "/coins/knc/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-09-20",
+        "MaxSupply": 210360366.45740843,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "KNC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 210360366.45740843,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 14671100.120402189,
+        "TotalTopTierVolume24H": 14668222.57469522,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~KNC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~KNC~USD~2052~0.956~1606502143~0.9595~10.5~10.038~3213463~2353647.8699150532~2274092.087964975~3640266.0191432005~3521566.141020764~0.982~1.012~0.9242~0.9325~1.013~0.9038~Coinbase~35050.100113160006~33527.480704774396~0.9498~0.9592~0.9484~3640266.0191432005~3521566.141020764~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "935546",
+        "Name": "COMP",
+        "FullName": "Compound",
+        "Internal": "COMP",
+        "ImageUrl": "/media/37072045/comp.png",
+        "Url": "/coins/comp/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-06-16",
+        "MaxSupply": 10000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "COMP",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 10000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 134777.00231666767,
+        "TotalTopTierVolume24H": 134777.00231666767,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~COMP~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~COMP~USD~2052~102.99~1606502152~102.99~2.36~243.0564~2930911~30772.054469398034~3221889.8565059267~39715.09751518001~4163039.049610933~106.91~110.08~99.95~102.78~110.08~99.94~Coinbase~403.0360852099995~41379.615424644~101.78~103.2~101.53~39715.09751518001~4163039.049610933~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "937105",
+        "Name": "NEAR",
+        "FullName": "Near",
+        "Internal": "NEAR",
+        "ImageUrl": "/media/37458963/near.png",
+        "Url": "/coins/near/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "0000-00-00",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "NEAR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 32645194.361530058,
+        "TotalTopTierVolume24H": 14159393.82273032,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~NEAR~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~NEAR~BTC~513~0.0000579~1606502100~0.0000579~5.9~0.00034161~168726~867655.2799999983~50.947878613000015~1185514.74~69.154157233~0.0000588~0.0000609~0.0000567~0.0000564~0.0000609~0.0000562~Binance~1252.47~0.07250257100000002~0.000058~0.000058~0.0000578~1185514.74~69.154157233~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "41192",
+        "Name": "MKR",
+        "FullName": "Maker",
+        "Internal": "MKR",
+        "ImageUrl": "/media/1382296/mkr.png",
+        "Url": "/coins/mkr/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2015-08-15",
+        "MaxSupply": 1001661.2420139182,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "MKR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1001661.2420139182,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 32581.609234986536,
+        "TotalTopTierVolume24H": 26512.97313498475,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~MKR~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~MKR~USD~2049~511.08~1606502168~513.0445~0.023098~11.8034083014~1247228~2341.4021249799903~1225645.3511437888~2990.7432912500003~1564761.1817381168~526.59~545.62~509.3~510~548.82~500.29~Coinbase~57.53490300000001~29399.738258424783~510.59~512.01~510.12~2990.7432912500003~1564761.1817381168~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "716522",
+        "Name": "IOST",
+        "FullName": "IOS token",
+        "Internal": "IOST",
+        "ImageUrl": "/media/27010459/iost.png",
+        "Url": "/coins/iost/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "D+",
+            "MarketPerformanceRating": "D"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-01-20",
+        "MaxSupply": 90000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "IOST",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 22219143979.07147,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 2479441464.2799983,
+        "TotalTopTierVolume24H": 2479441464.2799983,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~IOST~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~IOST~BTC~2050~3.2e-7~1606502156~3.2e-7~87786.48~0.028407704928~4539366~233737352.13322622~76.56988815839188~468648002.71824485~153.56808595174954~3.2e-7~3.4e-7~3.2e-7~3.2e-7~3.4e-7~3.2e-7~OKEX~2807699.5821999996~0.9100418891759998~3.2e-7~3.3e-7~3.2e-7~468648002.71824485~153.56808595174954~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "45260",
+        "Name": "PAY",
+        "FullName": "TenX",
+        "Internal": "PAY",
+        "ImageUrl": "/media/1383687/pay.png",
+        "Url": "/coins/pay/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-07-07",
+        "MaxSupply": 205218255.94857776,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "PAY",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 205218255.94857776,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 239007097.59153226,
+        "TotalTopTierVolume24H": 239007097.59153226,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~PAY~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~PAY~BTC~2052~0.00000325~1606502172~0.00000327~859.071~0.00279198075~2890081~40838435.02474001~134.79392256581417~50081650.44649054~166.2985280840092~0.00000342~0.00000343~0.00000321~0.00000342~0.00000345~0.00000321~OKEX~1814051.7085747924~5.945011471638204~0.00000329~0.00000332~0.00000321~50081650.44649054~166.2985280840092~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "925939",
+        "Name": "PAX",
+        "FullName": "Paxos Standard",
+        "Internal": "PAX",
+        "ImageUrl": "/media/34835691/pax.png",
+        "Url": "/coins/pax/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-09-10",
+        "MaxSupply": 398061006.7,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "PAX",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 398061006.7,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 13536631.305612057,
+        "TotalTopTierVolume24H": 13469461.930802457,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~PAX~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~PAX~USD~2052~1~1606502160~1.002~102.07~102.049586~990400952~98418.13326225989~98413.63015213603~205799.77765965002~205857.3278818949~0.9991~1.002~0.9985~1~1.002~0.9993~P2PB2B~3705.6110738~3706.8415424106997~1~1~0.9997~139138.23615021~139213.23468827555~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "928761",
+        "Name": "WBTC",
+        "FullName": "Wrapped Bitcoin",
+        "Internal": "WBTC",
+        "ImageUrl": "/media/35309588/wbtc.png",
+        "Url": "/coins/wbtc/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-11-27",
+        "MaxSupply": 122831.33068239,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "ETH",
+        "CurrencyFrom": "WBTC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 122831.33068239,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 790.2905658642716,
+        "TotalTopTierVolume24H": 790.2905658642716,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~WBTC~ETH",
+          "5~CCCAGG~ETH~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~WBTC~ETH~1028~33.05~1606502176~32.9702~0.0005~0.0164851~348966~232.84914209999204~7677.648586362082~305.75495377~10082.178838039828~32.97~33.32~32.57~33.42~33.5~32.48~HuobiPro~6.771800000000009~224.2575700900002~33.13~33.21~33.05~305.75495377~10082.178838039828~3fffff9",
+          "5~CCCAGG~ETH~USD~2050~507.84~1606502171~507.52~0.09855129~49.999996981500004~5V6UBUD5QQ1K~524083.4261688656~268180996.83817163~641259.78357437~328761128.446643~520.22~531.01~494.78~495.51~531.38~489.2~itBit~9947.066052290029~5133855.606023994~504.8~508.49~503.31~640604.17375287~328423369.3001323~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "116180",
+        "Name": "ZEN",
+        "FullName": "Horizen",
+        "Internal": "ZEN",
+        "ImageUrl": "/media/34478457/horizen.png",
+        "Url": "/coins/zen/overview",
+        "Algorithm": "Equihash",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 1564988736.829897,
+        "BlockNumber": 837358,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-05-01",
+        "MaxSupply": 21000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ZEN",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 10466975,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1071465.7505207588,
+        "TotalTopTierVolume24H": 1071465.7505207588,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ZEN~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ZEN~BTC~2049~0.0006886~1606502180~0.0006886~0.01727~0.00001198538~298663~199881.93276738064~142.63303287160394~263329.79915242037~185.77660279875158~0.0006854~0.0007965~0.0006731~0.0006873~0.0008115~0.0006582~OKEX~1722.1618418148412~1.185198216437251~0.0006853~0.0006928~0.0006821~263329.79915242037~185.77660279875158~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "139467",
+        "Name": "CVC",
+        "FullName": "Civic",
+        "Internal": "CVC",
+        "ImageUrl": "/media/1383611/cvc.png",
+        "Url": "/coins/cvc/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-07-12",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "CVC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 169879539.40818805,
+        "TotalTopTierVolume24H": 169873706.48658574,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~CVC~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~CVC~BTC~2052~0.0000045~1606502176~0.0000045~51~0.0002295~100029213318~22675646.60911563~101.07005060705052~26203750.42632697~116.52364175299084~0.00000449~0.00000469~0.00000434~0.00000425~0.00000471~0.00000423~HuobiPro~225579.12855386993~1.014636312621337~0.00000449~0.00000452~0.00000448~26197917.50472452~116.4981355025385~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "714811",
+        "Name": "THETA",
+        "FullName": "Theta",
+        "Internal": "THETA",
+        "ImageUrl": "/media/27010450/theta.png",
+        "Url": "/coins/theta/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-11-23",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "THETA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 20723183.663378388,
+        "TotalTopTierVolume24H": 20723183.663378388,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~THETA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~THETA~BTC~516~0.00003553~1606502156~0.00003551~4.09~0.0001452768~100080507628~2828190.425474035~100.72624068509946~3841213.005474038~137.1048180022~0.00003617~0.00003687~0.00003473~0.00003546~0.00003688~0.00003471~HuobiPro~46202.420000000006~1.645073549799999~0.00003569~0.00003574~0.00003547~3841213.005474038~137.1048180022~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "218008",
+        "Name": "BTM",
+        "FullName": "Bytom",
+        "Internal": "BTM",
+        "ImageUrl": "/media/1383996/btm.png",
+        "Url": "/coins/btm/overview",
+        "Algorithm": "Tensority",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "D+",
+            "MarketPerformanceRating": "D-"
+          }
+        },
+        "NetHashesPerSecond": 522607568,
+        "BlockNumber": 558268,
+        "BlockTime": 163,
+        "BlockReward": 412.5,
+        "AssetLaunchDate": "2017-06-20",
+        "MaxSupply": 210000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "BTM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1637293800,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 175336348.6953121,
+        "TotalTopTierVolume24H": 173952620.8653123,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~BTM~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BTM~BTC~2052~0.00000378~1606502175~0.00000378~17~0.000064107~1017413134~20102590.891777944~76.44023589114859~25719519.043792978~97.972941803028~0.00000384~0.00000388~0.00000375~0.00000381~0.0000039~0.00000373~HitBTC~471727.2274000001~1.7808699426359986~0.00000378~0.00000379~0.00000376~25719519.043792978~97.972941803028~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936966",
+        "Name": "ALPHA",
+        "FullName": "Alpha Finance Lab",
+        "Internal": "ALPHA",
+        "ImageUrl": "/media/37305730/alpha.png",
+        "Url": "/coins/alpha/overview",
+        "Algorithm": "BEP20 Token",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-09-28",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ALPHA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 49885868.79999993,
+        "TotalTopTierVolume24H": 49885868.79999993,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ALPHA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ALPHA~BTC~513~0.00001298~1606502097~0.00001298~16~0.00020768~593039~9249044~122.77230030000015~10832484~141.91647704~0.0000124~0.00001438~0.00001228~0.00001182~0.00001438~0.00001144~Binance~171648~2.23715367~0.00001302~0.00001309~0.00001293~10832484~141.91647704~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "844139",
+        "Name": "TUSD",
+        "FullName": "True USD",
+        "Internal": "TUSD",
+        "ImageUrl": "/media/35650578/tusd.png",
+        "Url": "/coins/tusd/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-03-31",
+        "MaxSupply": 292395566.02,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "invert",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "TUSD",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 292395566.02,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 11016638.531184137,
+        "TotalTopTierVolume24H": 10997994.877673712,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~USD~TUSD"
+        ],
+        "RAW": [
+          "5~CCCAGG~USD~TUSD~516~1.004~1606502040~1.004344~205.55~206.4429092~1017411671~36925.900000000016~37083.668236319994~53789.98~54025.6646185~1.004~1.008~1.001~1.005~1.011~1.001~HitBTC~206.35000000000002~207.246214~1.004~1.004~1.004~53789.98~54025.6646185~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "935695",
+        "Name": "BAL",
+        "FullName": "Balancer",
+        "Internal": "BAL",
+        "ImageUrl": "/media/37072101/bal.png",
+        "Url": "/coins/bal/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-06-20",
+        "MaxSupply": 38625000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "BAL",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 38625000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 783439.9164683252,
+        "TotalTopTierVolume24H": 783439.9164683252,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~BAL~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~BAL~USD~516~12.95~1606501982~12.953~0.827~10.712131~208545~28279.332603848638~373553.9273499668~45172.06038858999~598507.9980977076~13.58~13.85~12.58~12.85~13.85~12.58~Coinbase~625.1979153600017~8082.815656400981~12.88~12.99~12.85~45172.06038858999~598507.9980977076~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "137013",
+        "Name": "SNT",
+        "FullName": "Status Network Token",
+        "Internal": "SNT",
+        "ImageUrl": "/media/1383568/snt.png",
+        "Url": "/coins/snt/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-20",
+        "MaxSupply": 6804870174.878169,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "SNT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 6804870174.878169,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 279812406.9469043,
+        "TotalTopTierVolume24H": 259002559.21707258,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~SNT~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SNT~BTC~2052~0.00000227~1606502156~0.00000227~55~0.00012485~100042621828~38608914.30081367~84.85744695229515~48504076.69087573~105.60852336242849~0.00000216~0.00000232~0.00000209~0.00000207~0.00000232~0.00000201~HuobiPro~627133.3773841398~1.4195822114441565~0.00000225~0.00000227~0.00000224~48504076.69087573~105.60852336242849~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "255777",
+        "Name": "PST",
+        "FullName": "Primas",
+        "Internal": "PST",
+        "ImageUrl": "/media/9350792/pst.jpg",
+        "Url": "/coins/pst/overview",
+        "Algorithm": "Scrypt",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-08-21",
+        "MaxSupply": 100000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "PST",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 100000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 643093287.6167915,
+        "TotalTopTierVolume24H": 643093287.6167915,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~PST~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~PST~BTC~2052~9.7e-7~1606502181~9.7e-7~25344.237~0.02458390989~720504~280308027.326999~248.7274542172295~358996828.521~314.46355083213~7.9e-7~0.00000118~6.2e-7~8.7e-7~0.00000118~6.2e-7~OKEX~7701357.540000003~7.4216520842599945~9.6e-7~9.8e-7~9.3e-7~358996828.521~314.46355083213~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "172091",
+        "Name": "NANO",
+        "FullName": "Nano",
+        "Internal": "NANO",
+        "ImageUrl": "/media/30001997/untitled-1.png",
+        "Url": "/coins/nano/overview",
+        "Algorithm": "Blake2b",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "C-",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2016-02-29",
+        "MaxSupply": 133248290,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "NANO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 133248290,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 8265987.36158618,
+        "TotalTopTierVolume24H": 8247696.560255889,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~NANO~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~NANO~USD~516~1.102~1606502136~1.099~161.16930201~179.206403275147~1606502136.1266~236375.70598886025~261498.0421839227~270731.43240345~295723.605623719~1.008~1.199~1.007~0.9646~1.205~0.9473~Kraken~18171.07019847~19918.889216734337~1.081~1.105~1.079~270731.43240345~295723.605623719~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "934443",
+        "Name": "SOLAN",
+        "FullName": "Solana",
+        "Internal": "SOLAN",
+        "ImageUrl": "/media/36934955/solan.png",
+        "Url": "/coins/solan/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "0000-00-00",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "SOLAN",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 4683083.21929972,
+        "TotalTopTierVolume24H": 4683083.21929972,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~SOLAN~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SOLAN~BTC~1026~0.0001084~1606502177~0.00010838~18~0.0019508400000000001~3562241~504797~55.953547569999984~631010~69.80431563~0.0001115~0.0001155~0.0001073~0.0001073~0.0001155~0.000106~Binance~14938~1.61394358~0.0001082~0.0001086~0.0001076~631010~69.80431563~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "78152",
+        "Name": "ANT",
+        "FullName": "Aragon",
+        "Internal": "ANT",
+        "ImageUrl": "/media/1383244/ant.png",
+        "Url": "/coins/ant/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-05-05",
+        "MaxSupply": 39609523.809523806,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "ANT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 39609523.809523806,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 2764862.0275175767,
+        "TotalTopTierVolume24H": 2764862.0275175767,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~ANT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ANT~USD~2052~3.071~1606502085~3.07~81.37226182~249.999999989586~533472786~47226.880855099924~149048.8264081522~80136.98432615~252723.8796183559~3.266~3.387~3.034~3.084~3.391~3.009~Bitfinex~1766.88164975~5429.693751918101~3.064~3.083~3.064~80136.98432615~252723.8796183559~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "931668",
+        "Name": "LUNA",
+        "FullName": "Terra",
+        "Internal": "LUNA",
+        "ImageUrl": "/media/37459367/luna.png",
+        "Url": "/coins/luna/overview",
+        "Algorithm": "N/A",
+        "ProofType": "DPoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-09-10",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "LUNA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 995740241.291549,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 23517542.28902336,
+        "TotalTopTierVolume24H": 23517542.28902336,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~LUNA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~LUNA~BTC~2052~0.00002258~1606502177~0.00002259~770.23~0.0173763888~1019300~5901536.860716096~129.7897041584908~7201383.666735217~156.48477769105483~0.00002035~0.00002343~0.00002027~0.00002086~0.00002346~0.00002026~HuobiPro~107307.02065641017~2.424819449953868~0.00002265~0.0000227~0.00002249~7201383.666735217~156.48477769105483~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "571314",
+        "Name": "ELF",
+        "FullName": "aelf",
+        "Internal": "ELF",
+        "ImageUrl": "/media/20780600/elf.png",
+        "Url": "/coins/elf/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-12-18",
+        "MaxSupply": 879999999.9864658,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ELF",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 879999999.9864658,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 82755453.87315075,
+        "TotalTopTierVolume24H": 82755453.87315075,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ELF~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ELF~BTC~513~0.00000602~1606502173~0.00000602~1845.892~0.01111226984~3681131~29045466.326717824~167.5483143553756~36550541.5227529~210.28493648640807~0.00000573~0.00000616~0.00000556~0.00000566~0.00000617~0.00000556~OKEX~906289.3112000008~5.421546581847011~0.00000599~0.00000603~0.00000594~36550541.5227529~210.28493648640807~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932760",
+        "Name": "RUNE",
+        "FullName": "Thorchain",
+        "Internal": "RUNE",
+        "ImageUrl": "/media/36569446/rune.png",
+        "Url": "/coins/rune/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-10-29",
+        "MaxSupply": 500000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "RUNE",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 500000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 10398906.580003178,
+        "TotalTopTierVolume24H": 10398906.580003178,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~RUNE~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~RUNE~BTC~2052~0.00004442~1606502177~0.00004442~13~0.00057746~1136564~1445426~64.16420250000013~1846120~82.33903337~0.00004631~0.00004734~0.00004226~0.0000453~0.00004734~0.00004226~Binance~5962~0.26469236~0.0000446~0.0000446~0.00004411~1846120~82.33903337~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "788239",
+        "Name": "REN",
+        "FullName": "REN",
+        "Internal": "REN",
+        "ImageUrl": "/media/27010916/ren.jpg",
+        "Url": "/coins/ren/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-12-31",
+        "MaxSupply": 999999632.80375,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "REN",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 999999632.80375,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 24526512.564408027,
+        "TotalTopTierVolume24H": 24526512.564408027,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~REN~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~REN~USD~513~0.3064~1606502160~0.3064~60.110674~18.4179105136~630892~4298559.955983997~1342494.4348782925~5882500.759177~1840457.4542766~0.3194~0.3327~0.2932~0.306~0.3327~0.2932~Coinbase~62525.38609099999~19106.6212640109~0.3028~0.3067~0.3026~5882500.759177~1840457.4542766~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "877073",
+        "Name": "NEXO",
+        "FullName": "NEXO",
+        "Internal": "NEXO",
+        "ImageUrl": "/media/32655865/nexo.jpg",
+        "Url": "/coins/nexo/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-04-29",
+        "MaxSupply": 1000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "NEXO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 32878533.28058362,
+        "TotalTopTierVolume24H": 32877011.13973616,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~NEXO~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~NEXO~BTC~513~0.00001518~1606502169~0.00001502~10~0.0001517~100019208547~14366917.776605012~195.87477933028694~18039045.73248617~245.18829452551637~0.00001372~0.00001525~0.0000133~0.00001296~0.00001526~0.00001291~HuobiPro~511392.265640234~7.658614857700001~0.00001445~0.00001525~0.00001441~18037523.591638662~245.167582604196~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932843",
+        "Name": "KLAY",
+        "FullName": "Klaytn",
+        "Internal": "KLAY",
+        "ImageUrl": "/media/36569485/klay.png",
+        "Url": "/coins/klay/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 44734158,
+        "BlockTime": 1.0102529166666667,
+        "BlockReward": 9.6,
+        "AssetLaunchDate": "2018-10-16",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "KLAY",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 18489696.77471727,
+        "TotalTopTierVolume24H": 18489696.77471727,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~KLAY~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~KLAY~BTC~2049~0.00002389~1606502145~0.00002356~222.10083237~0.0053059888853193~193621~469298.57596317993~11.30950157819812~557789.89535663~13.465111511250626~0.00002419~0.00002569~0.00002382~0.00002469~0.00002569~0.00002382~OKEX~4653.3281703699995~0.1110206829380392~0.00002385~0.00002389~0.00002383~557789.89535663~13.465111511250626~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "4433",
+        "Name": "XVG",
+        "FullName": "Verge",
+        "Internal": "XVG",
+        "ImageUrl": "/media/12318032/xvg.png",
+        "Url": "/coins/xvg/overview",
+        "Algorithm": "Multiple",
+        "ProofType": "PoW",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D+",
+            "TechnologyAdoptionRating": "C-",
+            "MarketPerformanceRating": "D"
+          }
+        },
+        "NetHashesPerSecond": 6611203123,
+        "BlockNumber": 4549578,
+        "BlockTime": 150,
+        "BlockReward": 200,
+        "AssetLaunchDate": "2017-09-26",
+        "MaxSupply": 16555000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "XVG",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 16394992343.363379,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1191863338.6666002,
+        "TotalTopTierVolume24H": 1191863338.6666002,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~XVG~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~XVG~BTC~516~3.8e-7~1606502176~3.746e-7~443.86~0.000166269956~100028216773~529090464.50963897~199.56615014039784~1037889011.8637273~387.49613037135623~3.7e-7~4e-7~3.6e-7~3.6e-7~4e-7~3.4e-7~HuobiPro~8792829.206824992~3.3070408173952526~3.8e-7~3.8e-7~3.7e-7~1037889011.8637273~387.49613037135623~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936047",
+        "Name": "DIA",
+        "FullName": "DIA",
+        "Internal": "DIA",
+        "ImageUrl": "/media/37072293/dia.png",
+        "Url": "/coins/dia/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-11-27",
+        "MaxSupply": 200000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "DIA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 180163248.4201085,
+        "MktCapPenalty": 99.99,
+        "TotalVolume24H": 5342748.534850712,
+        "TotalTopTierVolume24H": 5342748.534850712,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~DIA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~DIA~BTC~513~0.00008525~1606502058~0.00008094~2.85~0.00024396~1001562~1051329.7174621022~87.35139899472851~1223155.2690621~101.75760017782521~0.00008538~0.00008686~0.0000805~0.0000818~0.00008687~0.00008037~Binance~12235.09237245~1.041642085737466~0.00008432~0.00008572~0.00008389~1223155.2690621~101.75760017782521~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936373",
+        "Name": "EGLD",
+        "FullName": "Elrond",
+        "Internal": "EGLD",
+        "ImageUrl": "/media/35651026/erd.png",
+        "Url": "/coins/egld/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "0000-00-00",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "EGLD",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 837541.861201049,
+        "TotalTopTierVolume24H": 837541.861201049,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~EGLD~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~EGLD~USD~1026~8.856~1606502159~8.851~0.20329454~1.80139291894~533373005~14939.796371929991~134267.25934440593~25037.93935891~224915.223834244~9.137~9.169~8.797~8.86~9.161~8.737~Bitfinex~243.72511291999996~2151.484390564~8.878~8.878~8.849~25037.93935891~224915.223834244~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936492",
+        "Name": "SUN",
+        "FullName": "Sun Token",
+        "Internal": "SUN",
+        "ImageUrl": "/media/37305489/sun.png",
+        "Url": "/coins/sun/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "0000-00-00",
+        "MaxSupply": 0,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "SUN",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 0,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 758265.6940832984,
+        "TotalTopTierVolume24H": 758265.6940832984,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~SUN~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SUN~BTC~2050~0.0005538~1606501965~0.000554~0.31~0.000171616~100195084378156000000000000~31834.686360883174~17.829113002479165~38837.8310561731~21.65118666298972~0.0005495~0.0005729~0.0005437~0.0005367~0.0005736~0.0005329~huobikorea~301.2370000000001~0.1671479426000001~0.0005526~0.0005565~0.0005526~38837.8310561731~21.65118666298972~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "931676",
+        "Name": "FTT",
+        "FullName": "FTX Token",
+        "Internal": "FTT",
+        "ImageUrl": "/media/35651305/ftxt.png",
+        "Url": "/coins/ftt/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-04-21",
+        "MaxSupply": 342652046.184918,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "FTT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 335749707.184918,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1743104.594920788,
+        "TotalTopTierVolume24H": 1743104.594920788,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~FTT~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~FTT~USD~1026~3.9~1606502124~3.891~1~3.9~204459676~439370.7739512201~1732529.1422186508~540243.17103806~2122521.3791994867~3.931~4.025~3.783~3.776~4.025~3.718~ftx~778.39800625~3033.209240860625~3.876~3.91~3.876~540243.17103806~2122521.3791994867~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "930287",
+        "Name": "TT",
+        "FullName": "Thunder Token",
+        "Internal": "TT",
+        "ImageUrl": "/media/35650501/tt.png",
+        "Url": "/coins/tt/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2018-01-01",
+        "MaxSupply": 10000000000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "TT",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 9989829519,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 1407983018.1808043,
+        "TotalTopTierVolume24H": 1407983018.1808043,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~TT~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~TT~BTC~2052~2.8e-7~1606502165~2.8e-7~1097.6~0.00031029152~100013951699~11741071.550000021~3.308921170908006~14908624.850000001~4.204478174421~2.9e-7~2.9e-7~2.8e-7~2.8e-7~2.9e-7~2.8e-7~HuobiPro~176364.38~0.04987491533300001~2.8e-7~2.9e-7~2.8e-7~14908624.850000001~4.204478174421~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "166594",
+        "Name": "NMR",
+        "FullName": "Numeraire",
+        "Internal": "NMR",
+        "ImageUrl": "/media/1383655/nmr.png",
+        "Url": "/coins/nmr/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-21",
+        "MaxSupply": 10974705.259799385,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "NMR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 10974705.259799385,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 233955.0782701811,
+        "TotalTopTierVolume24H": 233955.0782701811,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~NMR~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~NMR~USD~513~27.1~1606502120~27.0995~3.562~96.528419~781508~33445.95500000003~899583.9387144984~41557.12~1122914.5301188~28.17~28.18~25.98~27.28~28.61~25.98~Coinbase~207.35600000000005~5619.8612115~26.98~27.18~26.93~41557.12~1122914.5301188~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "199148",
+        "Name": "MANA",
+        "FullName": "Decentraland",
+        "Internal": "MANA",
+        "ImageUrl": "/media/1383903/mana.png",
+        "Url": "/coins/mana/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-08-08",
+        "MaxSupply": 2194994838.1201463,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "MANA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 2194994838.1201463,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 80556137.2487541,
+        "TotalTopTierVolume24H": 80529441.74875416,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~MANA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~MANA~BTC~2052~0.00000465~1606502177~0.00000464~37~0.00017205~100030559053~10799724.285123017~49.848606948999425~15200298.057988185~70.42116296266276~0.00000466~0.0000047~0.00000452~0.00000467~0.00000477~0.0000045~HuobiPro~194062.3666019~0.8932570385771035~0.00000462~0.00000465~0.00000459~15197731.057988185~70.40927936666276~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "348628",
+        "Name": "KCS",
+        "FullName": "KuCoin Shares",
+        "Internal": "KCS",
+        "ImageUrl": "/media/12318389/kcs.png",
+        "Url": "/coins/kcs/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-09-15",
+        "MaxSupply": 170118638,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "ETH",
+        "CurrencyFrom": "KCS",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 170118638,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 7895834.035817513,
+        "TotalTopTierVolume24H": 7895834.035817513,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~KCS~ETH",
+          "5~CCCAGG~ETH~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~KCS~ETH~513~0.001559~1606501653~0.0015589~2.4155~0.00376552295~1600727260526~37167.65959999975~57.61913171574995~46570.7942~72.12680130688~0.00151~0.001584~0.001492~0.001564~0.001597~0.001492~Kucoin~1553.949999999998~2.42313700984~0.00157~0.00157~0.001556~46570.7942~72.12680130688~3fffff9",
+          "5~CCCAGG~ETH~USD~2050~507.84~1606502171~507.52~0.09855129~49.999996981500004~5V6UBUD5QQ1K~524083.4261688656~268180996.83817163~641259.78357437~328761128.446643~520.22~531.01~494.78~495.51~531.38~489.2~itBit~9947.066052290029~5133855.606023994~504.8~508.49~503.31~640604.17375287~328423369.3001323~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "930413",
+        "Name": "OCEAN",
+        "FullName": "Ocean Protocol",
+        "Internal": "OCEAN",
+        "ImageUrl": "/media/35650582/ocean.png",
+        "Url": "/coins/ocean/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-04-23",
+        "MaxSupply": 613099141,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "OCEAN",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 613099141,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 14642528.54623094,
+        "TotalTopTierVolume24H": 14642528.54623094,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~OCEAN~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~OCEAN~BTC~516~0.00002491~1606502152~0.00002492~2492~0.06210064~1466907~3320515.6616424453~83.53325046875362~4863960.83918434~121.85148125777405~0.00002546~0.00002616~0.00002449~0.00002446~0.00002616~0.00002428~Binance~43083.980299999996~1.0730720259289996~0.00002506~0.00002506~0.00002482~4863960.83918434~121.85148125777405~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "318169",
+        "Name": "LRC",
+        "FullName": "Loopring",
+        "Internal": "LRC",
+        "ImageUrl": "/media/36798698/lrc-logo.png",
+        "Url": "/coins/lrc/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-08-06",
+        "MaxSupply": 1374513861.4692945,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "direct",
+        "ConversionSymbol": "",
+        "CurrencyFrom": "LRC",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1374513861.4692945,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 33357037.87356803,
+        "TotalTopTierVolume24H": 33353559.729918435,
+        "SubBase": "5",
+        "SubsNeeded": [
+          "5~CCCAGG~LRC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~LRC~USD~2052~0.1788~1606502170~0.1838~5313.127991~949.9872847908~622872~5999853.068010076~1097589.2970628673~7898185.51936684~1447431.4186514113~0.1907~0.1963~0.1717~0.1824~0.1963~0.1717~Coinbase~209145.9018639999~37408.73590491911~0.1779~0.1798~0.1775~7898185.51936684~1447431.4186514113~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "187347",
+        "Name": "STORJ",
+        "FullName": "Storj",
+        "Internal": "STORJ",
+        "ImageUrl": "/media/20422/sjcx.png",
+        "Url": "/coins/storj/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-06-19",
+        "MaxSupply": 424999998.00001335,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "STORJ",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 424999998.00001335,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 18568732.12112999,
+        "TotalTopTierVolume24H": 18567355.259739645,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~STORJ~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~STORJ~BTC~2052~0.00001932~1606502177~0.00001943~18.08~0.0003494864~100028779721~1042116.299756467~20.24015834146203~1423164.6586367697~27.607465012694412~0.00001969~0.00002~0.00001901~0.00001914~0.00002~0.00001898~HuobiPro~22694.580532949996~0.4393289301995878~0.00001939~0.00001943~0.00001931~1421787.7972464098~27.579345344305306~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "936118",
+        "Name": "SRM",
+        "FullName": "Serum",
+        "Internal": "SRM",
+        "ImageUrl": "/media/37072331/srm.png",
+        "Url": "/coins/srm/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2020-08-11",
+        "MaxSupply": 161000001,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "SRM",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 161000001,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 6070731.167620386,
+        "TotalTopTierVolume24H": 6070731.167620386,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~SRM~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~SRM~BTC~513~0.00005858~1606502028~0.00005858~0.9802~0.000057420116~703756~456286.1036999998~26.881789515698028~627230.8809~37.088440345927~0.00005997~0.00006052~0.00005768~0.00005952~0.00006053~0.00005766~OKEX~4870.7465999999995~0.28509793110599996~0.00005862~0.00005871~0.00005838~627230.8809~37.088440345927~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "932609",
+        "Name": "KAVA",
+        "FullName": "Kava",
+        "Internal": "KAVA",
+        "ImageUrl": "/media/36569370/kava.png",
+        "Url": "/coins/kava/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 205285,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-10-23",
+        "MaxSupply": -1,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "KAVA",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 112306110,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 3728534.736411401,
+        "TotalTopTierVolume24H": 3728534.736411401,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~KAVA~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~KAVA~BTC~2049~0.00009259~1606502167~0.0000928~1~0.0000924~4789753~398799.1396865099~36.76469870434105~510867.73280686~47.288154231017494~0.00009388~0.00009473~0.00008998~0.00009312~0.00009537~0.00008985~Binance~8138.02533753~0.7565795539471218~0.00009227~0.00009295~0.00009208~510867.73280686~47.288154231017494~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "517477",
+        "Name": "GTO",
+        "FullName": "GIFTO",
+        "Internal": "GTO",
+        "ImageUrl": "/media/16746671/gto.png",
+        "Url": "/coins/gto/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-12-13",
+        "MaxSupply": 100000,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "GTO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 1000000000,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 488223882.87413853,
+        "TotalTopTierVolume24H": 488223882.87413853,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~GTO~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~GTO~BTC~2049~6.3e-7~1606501965~6.8e-7~14411.782~0.00980001176~4772888~54318751.39539548~32.293781668934656~85424554.67639539~52.20961109906468~6.4e-7~7.1e-7~3.9e-7~6.4e-7~6.8e-7~6e-7~OKEX~63879.265~0.033163670199999995~6.2e-7~6.8e-7~5.9e-7~85424554.67639539~52.20961109906468~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "30173",
+        "Name": "ARDR",
+        "FullName": "Ardor",
+        "Internal": "ARDR",
+        "ImageUrl": "/media/351736/ardr.png",
+        "Url": "/coins/ardr/overview",
+        "Algorithm": "N/A",
+        "ProofType": "PoS",
+        "Rating": {
+          "Weiss": {
+            "Rating": "D-",
+            "TechnologyAdoptionRating": "E+",
+            "MarketPerformanceRating": "D+"
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 1548945,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2017-09-24",
+        "MaxSupply": 998999495,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "ARDR",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 998999495,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 90081688.33132657,
+        "TotalTopTierVolume24H": 90081442.69185355,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~ARDR~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~ARDR~BTC~2052~0.0000036~1606501999~0.00000361~2~0.000007184~1017411264~16960477.169832345~61.88947038905668~24306341.85128775~89.44093410285228~0.00000384~0.00000395~0.00000351~0.00000378~0.00000395~0.0000035~HitBTC~198118.0175453299~0.7136686795904241~0.00000363~0.00000363~0.0000036~24306096.21181472~89.4400411238425~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": true
+      }
+    },
+    {
+      "CoinInfo": {
+        "Id": "928921",
+        "Name": "LTO",
+        "FullName": "LTO Network",
+        "Internal": "LTO",
+        "ImageUrl": "/media/35309668/lto.png",
+        "Url": "/coins/lto/overview",
+        "Algorithm": "N/A",
+        "ProofType": "N/A",
+        "Rating": {
+          "Weiss": {
+            "Rating": "",
+            "TechnologyAdoptionRating": "",
+            "MarketPerformanceRating": ""
+          }
+        },
+        "NetHashesPerSecond": 0,
+        "BlockNumber": 0,
+        "BlockTime": 0,
+        "BlockReward": 0,
+        "AssetLaunchDate": "2019-01-13",
+        "MaxSupply": 84116540.6707095,
+        "Type": 1,
+        "DocumentType": "Webpagecoinp"
+      },
+      "ConversionInfo": {
+        "Conversion": "multiply",
+        "ConversionSymbol": "BTC",
+        "CurrencyFrom": "LTO",
+        "CurrencyTo": "USD",
+        "Market": "CCCAGG",
+        "Supply": 84116540.6707095,
+        "MktCapPenalty": 0,
+        "TotalVolume24H": 45229011.59999978,
+        "TotalTopTierVolume24H": 45229011.59999978,
+        "SubBase": "5~",
+        "SubsNeeded": [
+          "5~CCCAGG~LTO~BTC",
+          "5~CCCAGG~BTC~USD"
+        ],
+        "RAW": [
+          "5~CCCAGG~LTO~BTC~2052~0.00000681~1606502172~0.00000689~5965~0.04062165~1813269~20526482~146.88911124000026~32607585~237.107862675~0.00000736~0.00000751~0.00000676~0.00000745~0.0000078~0.00000676~Binance~977028~6.6474085999999994~0.00000681~0.00000683~0.00000676~32607585~237.107862675~3fffff9",
+          "5~CCCAGG~BTC~USD~513~16818.83~1606502174~16813.58~0.00109623~18.4189112715~111321795~51626.93949194779~874270856.4364679~71053.36020944899~1203206977.40168~17175.86~17479.12~16462.87~16561.77~17484.23~16317.31~Coinbase~1151.3775164999863~19360190.846343447~16748.71~16874.3~16714.55~70083.44636271999~1186672453.0736418~3fffff9"
+        ],
+        "DirectPairAvailable": false
+      }
+    }
+  ]
+}
